@@ -4,3 +4,4 @@ birnen
 brokkoli
 banane
 doener
+kartoffel
