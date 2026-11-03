@@ -10,3 +10,4 @@ banane
 doener
 kartoffel
 bratl
+sekt
